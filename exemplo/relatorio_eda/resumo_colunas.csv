@@ -1,0 +1,8 @@
+﻿coluna;tipo;nulos;pct_nulos;valores_unicos;identificador;mais_frequentes;grafias_suspeitas;media;mediana;desvio_padrao;minimo;maximo;assimetria;outliers_iqr;limite_inferior_iqr;limite_superior_iqr
+id;int64;0;0,0;300;True;;;;;;;;;;;
+cidade;str;0;0,0;9;False;"Mossoró (87); Parnamirim (75); Caicó (70)";5,0;;;;;;;;;
+idade;float64;0;0,0;48;False;;;35,45874587458746;35,0;15,14797150796328;-4,0;230,0;6,964834643291698;3,0;8,5;60,5
+salario;float64;25;8,25;275;False;;;3350,826582733813;2976,71;1783,2724039700734;677,04;10925,3;1,4686719577263019;13,0;-886,6174999999994;7029,0025
+horas_semanais;float64;0;0,0;250;False;;;54,657755775577556;48,3;29,0610694776567;12,1;179,1;1,4960241011156223;13,0;-15,674999999999997;117,325
+escolaridade;str;26;8,58;3;False;"Médio (124); Superior (98); Pós (55)";0,0;;;;;;;;;
+pais;str;0;0,0;1;False;Brasil (303);0,0;;;;;;;;;
