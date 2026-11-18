@@ -32,7 +32,7 @@ exemplo/
 ### No Claude (web, desktop ou celular)
 
 1. Ative a execução de código nas configurações do Claude (as skills precisam dela).
-2. Baixe o arquivo [`eda-padrao.zip`](eda-padrao.zip), que já está pronto para instalar (no GitHub, abra o arquivo e clique no botão de download).
+2. Baixe o arquivo `eda-padrao.zip`, já pronto para instalar, na [página da versão mais recente](https://github.com/Joelson-Ferreira/eda-padrao-repositorio/releases/latest). Ele também está na raiz deste repositório.
 3. No Claude, abra **Customize > Skills** e envie o ZIP.
 4. Ative a skill e envie um dataset pedindo uma análise exploratória.
 
