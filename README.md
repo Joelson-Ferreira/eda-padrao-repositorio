@@ -17,6 +17,7 @@ O arquivo original **nunca é alterado**.
 ## Estrutura
 
 ```
+eda-padrao.zip                # a skill pronta para instalar no Claude
 eda-padrao/
 ├── SKILL.md                  # instruções que o Claude segue
 └── scripts/
@@ -31,7 +32,7 @@ exemplo/
 ### No Claude (web, desktop ou celular)
 
 1. Ative a execução de código nas configurações do Claude (as skills precisam dela).
-2. Baixe a pasta `eda-padrao` e compacte em um arquivo ZIP (ou baixe o `eda-padrao.zip` da página de releases).
+2. Baixe o arquivo [`eda-padrao.zip`](eda-padrao.zip), que já está pronto para instalar (no GitHub, abra o arquivo e clique no botão de download).
 3. No Claude, abra **Customize > Skills** e envie o ZIP.
 4. Ative a skill e envie um dataset pedindo uma análise exploratória.
 
